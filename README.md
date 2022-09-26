@@ -2,7 +2,8 @@
 
 ### [My Certificate URL](https://www.coursera.org/account/accomplishments/)
 To verify the certificate, click the image to follow the link.
-<a href="https://coursera.org/share/e2f64ecd189edd6f17e2ad9a40466335"><img src="Data_Science_Certificate_Coursera_IBM_5GAMZ6HE83C4.pdf" height="400"></a>
+<p>
+  <a href="https://coursera.org/share/e2f64ecd189edd6f17e2ad9a40466335"><img src="[Data_Science_Certificate_Coursera_IBM_5GAMZ6HE83C4.pdf](https://www.coursera.org/account/accomplishments/specialization/certificate/5GAMZ6HE83C4)" height="400"></a>
 
 ---
 
