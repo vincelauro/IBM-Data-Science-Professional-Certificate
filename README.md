@@ -1,9 +1,9 @@
 # [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
 
-### [My Certificate URL](https://www.coursera.org/account/accomplishments/)
+### [My Certificate URL](https://coursera.org/share/e2f64ecd189edd6f17e2ad9a40466335)
 To verify the certificate, click the image to follow the link.
 <p>
-  <a href="https://coursera.org/share/e2f64ecd189edd6f17e2ad9a40466335"><img src="[Data_Science_Certificate_Coursera_IBM_5GAMZ6HE83C4.pdf](https://www.coursera.org/account/accomplishments/specialization/certificate/5GAMZ6HE83C4)" height="400"></a>
+  <a href="https://coursera.org/share/e2f64ecd189edd6f17e2ad9a40466335"><img src="https://github.com/vincelauro/IBM-Data-Science-Professional-Certificate/blob/main/Data_Science_Certificate_Coursera_IBM_5GAMZ6HE83C4.png?raw=true" height="400"></a>
 
 ---
 
@@ -11,7 +11,7 @@ To verify the certificate, click the image to follow the link.
 
 Data science is one of the fastest growing topics of the decade, and the demand for data scientists who can analyze data and communicate results to inform data driven decisions has never been greater. This Professional Certificate from IBM works to develop critical data science and machine learning skills and experience.  
 
-The program consists of 9 online courses that will provide you with the latest job-ready tools and skills, including open source tools and libraries, Python, databases, SQL, data visualization, data analysis, statistical analysis, predictive modeling, and machine learning algorithms. You’ll learn data science through hands-on practice in the IBM Cloud using real data science tools and real-world data sets.
+The program consists of 10 online courses that will provide you with the latest job-ready tools and skills, including open source tools and libraries, Python, databases, SQL, data visualization, data analysis, statistical analysis, predictive modeling, and machine learning algorithms. You’ll learn data science through hands-on practice in the IBM Cloud using real data science tools and real-world data sets.
 
 This Professional Certificate has a strong emphasis on applied learning. Except for the first course, all other courses include a series of hands-on labs in the IBM Cloud that will give you practical skills with applicability to real jobs, including: 
 
